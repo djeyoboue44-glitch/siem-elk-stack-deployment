@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🛡️ SIEM ELK Stack — Supervision & Détection
+# 🛡️ SIEM ELK Stack  Supervision & Détection
 
 ### Centralisation de logs, détection d'intrusion et tableaux de bord de sécurité
 
@@ -185,7 +185,7 @@ for i in {1..10}; do ssh wronguser@<IP_CIBLE>; done
 | | |
 |---|---|
 | ![9](9-%20SECURITY%20OVERVIEW%20--%207,236%20EVENTS%20DETECTES.PNG) **Security Overview (7 236 événements)** | ![10](10-GENERATION%20DES%20CLES%20DE%20CHIFFREMENT%20KIBANA.PNG) **Génération des clés de chiffrement** |
-| ![11](11-SECTION%20ALERTS%20(PERMISSIONS%20ENGINE).PNG) **Section Alerts — permissions engine** | |
+| ![11](11-SECTION%20ALERTS%20(PERMISSIONS%20ENGINE).PNG) **Section Alerts  permissions engine** | |
 
 <div align="center">
 
@@ -196,7 +196,7 @@ for i in {1..10}; do ssh wronguser@<IP_CIBLE>; done
 | | |
 |---|---|
 | ![12](12-%20TEST%20BRUTE%20FORCE%20SSH%20SIMULE.PNG) **Lancement du test SSH simulé** | ![13](13-%20TEST%20BRUTE%20FORCE%20SSH%20SIMULE%20SUITE.PNG) **Test SSH simulé — suite** |
-| ![14](14-%20TEST%20BRUTE%20FORCE%20SSH%20SIMULE%20SUITE%202.PNG) **Test SSH simulé — suite 2** | |
+| ![14](14-%20TEST%20BRUTE%20FORCE%20SSH%20SIMULE%20SUITE%202.PNG) **Test SSH simulé  suite 2** | |
 
 <div align="center">
 
@@ -206,8 +206,8 @@ for i in {1..10}; do ssh wronguser@<IP_CIBLE>; done
 
 | | |
 |---|---|
-| ![16](16-%20DISCOVER--LOGS%20EN%20TEMPS%20REEL%20(10,715%20HITS).PNG) **Discover — logs temps réel (10 715 hits)** | ![17](17-%20REQUETE%20KGL%20system.syslog%20AND%20sudo%20--%203%20HITS.PNG) **Requête KQL `syslog AND sudo`** |
-| ![18](18-DASHBOARD%20EN%20CONSTRUCTION%20AVEC%20VISUALISATIONS.PNG) **Dashboard en construction** | ![19](19-%20DASHBOARDS%20EN%20CONSTRUCTION%20AVEC%20VISUALISATIONS.PNG) **Dashboard — suite** |
+| ![16](16-%20DISCOVER--LOGS%20EN%20TEMPS%20REEL%20(10,715%20HITS).PNG) **Discover  logs temps réel (10 715 hits)** | ![17](17-%20REQUETE%20KGL%20system.syslog%20AND%20sudo%20--%203%20HITS.PNG) **Requête KQL `syslog AND sudo`** |
+| ![18](18-DASHBOARD%20EN%20CONSTRUCTION%20AVEC%20VISUALISATIONS.PNG) **Dashboard en construction** | ![19](19-%20DASHBOARDS%20EN%20CONSTRUCTION%20AVEC%20VISUALISATIONS.PNG) **Dashboard  suite** |
 | ![20](20-%20TABLEAU%20DE%20BORD%20DE%20SUPERVISION%20DES%20LOGS.PNG) **Tableau de bord final** | ![21](21-%20ANALYSE%20DES%20DONNEES%20COLLECTEES%20PAR%20ELASTIC%20STACK.PNG) **Analyse des données collectées** |
 
 ---
